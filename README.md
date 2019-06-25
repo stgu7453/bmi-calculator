@@ -1,2 +1,4 @@
-# flutter_projects
-My Repository for learning Flutter by building apps
+@stgu
+
+This is an BMI-Calculator written in Dart.
+It's just a test project.
