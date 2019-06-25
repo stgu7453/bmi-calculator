@@ -1,3 +1,3 @@
 @stgu
 
-This is an BMI-Calculator written in Dart.
+This is a BMI-Calculator written in Dart.
